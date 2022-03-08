@@ -8,15 +8,14 @@
 
 - The mininum temperatures of each month has huge difference. In June, the mininum temperature is 64 instead 56 in December.
 
-- The mininum temperatures of each month has huge difference. In June, the mininum temperature is 64 instead 56 in December.
 - 25% of temperature in June and in December is also differenct. in June, it is 73 and in December, it is 69. 
 
 ![June Temps](https://github.com/msjj622/surfs_up/blob/main/results/SurfsUp_Challenge_june_temps.png)
 
 ![December Temps](https://github.com/msjj622/surfs_up/blob/main/results/SurfsUp_Challenge_decepber_temps.png)
 
-## Analysis Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December. There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
-
+## Analysis Summary:
+As you can see the results above the images, most of the temperatures in June and December are very simillar. So the surf and ice-cream shop business would be a good business items in Oahu. We could get more weather data for more
 
 As you can see the line chart above, Urban city type has more afforability on fares and more demands comparing to other city type. It has more rides, more drivers. Although, the average fare per ride and driver is lower than other city type, the total fares are much higher.
 
