@@ -15,10 +15,4 @@
 ![December Temps](https://github.com/msjj622/surfs_up/blob/main/results/SurfsUp_Challenge_decepber_temps.png)
 
 ## Analysis Summary:
-As you can see the results above the images, most of the temperatures in June and December are very simillar. So the surf and ice-cream shop business would be a good business items in Oahu. We could get more weather data for more
-
-As you can see the line chart above, Urban city type has more afforability on fares and more demands comparing to other city type. It has more rides, more drivers. Although, the average fare per ride and driver is lower than other city type, the total fares are much higher.
-
-As you can see the multiple-line chart above, the urban city type has more affordability which means it has more demends and the fare would be higher due to the high demands. For Pyber, a ride-sharing comany can have a good profit if we can focus on the services more in urban.
-
-Other recommendations, in Rural area, Giving them discount for ride-sharing fares and see if they are willing to expend more. I think we have to know what would be reason that the residents in rural area wants to use ride-sharing serives to get more business ideas for the next steps.
+As you can see the results above the images, most of the temperatures in June and December are very simillar, which is a good temperature for surfing all year around, not too cold and not too hot. So, the surf and ice-cream shop business would be good business items in Oahu. We could get more weather data for precipitation by using 'Measurement.prcp' and see how many raining days in June and December, which might affects the business. Overall according to the analysis of temperature in June and December in Oahu.
